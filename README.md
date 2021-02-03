@@ -2,7 +2,7 @@
 Eric's ESP32 stuff for the various ESP32 boards and programming files in my collection.  Since the ESP32 is supported by MicroPython 
 I will try to incorporate it in to more projects and videos as best I can.  
 
-# Wemos ESP32 Lite Board
+## Wemos ESP32 Lite Board
 
 ### Install Micropython
 
@@ -19,7 +19,7 @@ I will try to incorporate it in to more projects and videos as best I can.
 
 -  https://randomnerdtutorials.com/getting-started-micropython-esp32-esp8266/#:~:text=The%20code%20for%20blinking%20an%20LED%20on%20a,without%20the%20need%20to%20compile%20or%20upload%20code.
 
-# ESP 32 Cam Board
+## ESP 32 Cam Board
 
 - See ResQ repo for updated ESP32 camera code but copied here for quick use
 
