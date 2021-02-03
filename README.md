@@ -3,12 +3,14 @@ Eric's ESP32 Stuffs
 
 # Wemos ESP32 Lite Board
 
-## Install Micropythong
+## Install Micropython
 
 1.  Got to micropythong.org
 2.  Download ESP32 Firmware for board
 3.  Open Thonny and pick ESP32 on USB and flash firmware .bin
 4.  Thonny Repl should be working  
+
+## Handy Links and stuffs 
 
 - https://diyprojects.io/wemos-lolin32-lite-compact-revision-lolin32-4-90/
 
