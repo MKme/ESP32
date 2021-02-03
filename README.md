@@ -1,5 +1,6 @@
 # ESP32
-Eric's ESP32 Stuffs 
+Eric's ESP32 stuff for the various ESP32 boards and programming files in my collection.  Since the ESP32 is supported by MicroPython 
+I will try to incorporate it in to more projects and videos as best I can.  
 
 # Wemos ESP32 Lite Board
 
