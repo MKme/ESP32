@@ -4,14 +4,14 @@ I will try to incorporate it in to more projects and videos as best I can.
 
 # Wemos ESP32 Lite Board
 
-## Install Micropython
+### Install Micropython
 
 1.  Got to micropythong.org
 2.  Download ESP32 Firmware for board
 3.  Open Thonny and pick ESP32 on USB and flash firmware .bin
 4.  Thonny Repl should be working  
 
-## Wemos 32 Lite Reference Info Links
+### Wemos 32 Lite Reference Info Links
 
 - https://diyprojects.io/wemos-lolin32-lite-compact-revision-lolin32-4-90/
 
@@ -19,5 +19,11 @@ I will try to incorporate it in to more projects and videos as best I can.
 
 -  https://randomnerdtutorials.com/getting-started-micropython-esp32-esp8266/#:~:text=The%20code%20for%20blinking%20an%20LED%20on%20a,without%20the%20need%20to%20compile%20or%20upload%20code.
 
--  
+# ESP 32 Cam Board
+
+- See ResQ repo for updated ESP32 camera code but copied here for quick use
+
+- Rui's tutorial is linked in the code
+
+  
 
