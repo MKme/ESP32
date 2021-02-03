@@ -10,7 +10,7 @@ Eric's ESP32 Stuffs
 3.  Open Thonny and pick ESP32 on USB and flash firmware .bin
 4.  Thonny Repl should be working  
 
-## Handy Links and stuffs 
+## Wemos 32 Lite Reference Info Links
 
 - https://diyprojects.io/wemos-lolin32-lite-compact-revision-lolin32-4-90/
 
