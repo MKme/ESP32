@@ -1,10 +1,5 @@
 <p align="center">
-<br>
 
- <br>
-
-<br>
-<br>
 🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
 | 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
