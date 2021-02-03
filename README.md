@@ -40,7 +40,7 @@ Buy the OLED version here: https://amzn.to/36DUf4b
 
 - See ResQ repo for updated ESP32 camera code but copied here for quick use
 
-## FTDI COnnections for programming: 
+## FTDI Connections for programming: 
 <br>
  <img src="https://github.com/MKme/ESP32/blob/main/ESP32%20Cam%20Board/FTDI%20Connections%20for%20programming%20.PNG" width="700"/>
  
