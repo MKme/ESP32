@@ -23,7 +23,13 @@ I will try to incorporate it in to more projects and videos as best I can.
 
 - See ResQ repo for updated ESP32 camera code but copied here for quick use
 
-- Rui's tutorial is linked in the code
+### FTDI COnnections for programming: 
+<br>
+ <img src="https://github.com/MKme/ESP32/blob/main/ESP32%20Cam%20Board/FTDI%20Connections%20for%20programming%20.PNG" width="700"/>
+ 
+###  Arduino Settings for programming:
+
+<img src="https://github.com/MKme/ESP32/blob/main/ESP32%20Cam%20Board/Use%20the3se%20settings%20in%20Arduino%20IDE%20to%20program%20the%20board.png" width="700"/>
 
   
 
