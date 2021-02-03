@@ -38,9 +38,15 @@ Buy the OLED version here: https://amzn.to/36DUf4b
 
 -  https://randomnerdtutorials.com/getting-started-micropython-esp32-esp8266/#:~:text=The%20code%20for%20blinking%20an%20LED%20on%20a,without%20the%20need%20to%20compile%20or%20upload%20code.
 
+-  Not lite but same programming https://www.youtube.com/watch?v=BzAo48cFhS8&ab_channel=Micronote
+
 # ESP 32 Cam Board
 
 - See ResQ repo for updated ESP32 camera code but copied here for quick use
+
+- Interesting Google Cam use https://www.youtube.com/watch?v=Upcr_rXnMQY&ab_channel=anyboards
+
+
 
 ## FTDI Connections for programming: 
 <br>
