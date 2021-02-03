@@ -12,6 +12,13 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 Eric's ESP32 stuff for the various ESP32 boards and programming files in my collection.  Since the ESP32 is supported by MicroPython 
 I will try to incorporate it in to more projects and videos as best I can.  
 
+Buy an ESP32 Cam board here: https://amzn.to/2MMk2QP
+
+Buy the ESP32 Lite Board here: https://amzn.to/2YDs3tN
+
+Buy the OLED version here: https://amzn.to/36DUf4b
+
+
 # Wemos ESP32 Lite Board
 
 ## Install Micropython
