@@ -21,6 +21,8 @@ Buy the OLED version here: https://amzn.to/36DUf4b
 
 # Wemos ESP32 Lite Board
 
+<img src="https://github.com/MKme/ESP32/blob/main/Wemos%2032%20Lite%20Board/s-l1600%20(1).jpg" width="700"/>
+
 ## Install Micropython
 
 1.  Got to micropythong.org
