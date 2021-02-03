@@ -1,6 +1,8 @@
 <p align="center">
 <br>
-
+<br>
+<br>
+<br>
 🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
 | 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
@@ -8,6 +10,7 @@ Support this project and become a patron on <a href="http://mkme.org/patreon">Er
 Website, Forum and store are at http://mkme.org <br>
 Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
+
 Eric's ESP32 stuff for the various ESP32 boards and programming files in my collection.  Since the ESP32 is supported by MicroPython 
 I will try to incorporate it in to more projects and videos as best I can.  
 
