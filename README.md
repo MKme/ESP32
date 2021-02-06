@@ -32,6 +32,16 @@ Buy the OLED version here: https://amzn.to/36DUf4b
 
 ## Wemos 32 Lite Reference Info Links
 
+4MB Flash
+
+Lithium battery interface, 500mA Max charging current
+
+Default firmware: Lastest MicroPython firmware
+
+Max serial baud rate: 256000bps
+
+-  GPIO 22 has built in LED 
+
 - https://diyprojects.io/wemos-lolin32-lite-compact-revision-lolin32-4-90/
 
 - https://randomnerdtutorials.com/getting-started-micropython-esp32-esp8266/#:~:text=The%20code%20for%20blinking%20an%20LED%20on%20a,without%20the%20need%20to%20compile%20or%20upload%20code.
