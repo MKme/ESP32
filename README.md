@@ -51,7 +51,8 @@ Max serial baud rate: 256000bps
 -  Not lite but same programming https://www.youtube.com/watch?v=BzAo48cFhS8&ab_channel=
 
 <img src="https://github.com/MKme/ESP32/blob/main/Wemos%2032%20Lite%20Board/pics/Lolin32_pinout03.png"/>
-
+<img src="https://github.com/MKme/ESP32/blob/main/Wemos%2032%20Lite%20Board/pics/1.png"/>
+<img src="https://github.com/MKme/ESP32/blob/main/Wemos%2032%20Lite%20Board/pics/2.jpg"/>
 
 # ESP 32 Cam Board
 
