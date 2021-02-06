@@ -48,7 +48,10 @@ Max serial baud rate: 256000bps
 
 -  https://randomnerdtutorials.com/getting-started-micropython-esp32-esp8266/#:~:text=The%20code%20for%20blinking%20an%20LED%20on%20a,without%20the%20need%20to%20compile%20or%20upload%20code.
 
--  Not lite but same programming https://www.youtube.com/watch?v=BzAo48cFhS8&ab_channel=Micronote
+-  Not lite but same programming https://www.youtube.com/watch?v=BzAo48cFhS8&ab_channel=
+
+<img src="https://github.com/MKme/ESP32/blob/main/Wemos%2032%20Lite%20Board/pics/Lolin32_pinout03.png"/>
+
 
 # ESP 32 Cam Board
 
