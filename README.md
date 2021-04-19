@@ -23,6 +23,8 @@ Buy the OLED version here: https://amzn.to/36DUf4b
 
 <img src="https://github.com/MKme/ESP32/blob/main/Wemos%2032%20Lite%20Board/pics/s-l1600%20(1).jpg"/>
 
+Buy the ESP 32 Lite on Amazon here: https://amzn.to/3coe2be
+
 ## Install Micropython
 
 1.  Got to micropythong.org
