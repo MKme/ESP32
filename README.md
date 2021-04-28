@@ -64,6 +64,7 @@ Max serial baud rate: 256000bps
 
 - Interesting Google Cam use https://www.youtube.com/watch?v=Upcr_rXnMQY&ab_channel=anyboards
 
+- BME 280 I2C with ESP cam:  https://3iinc.xyz/blog/how-to-use-i2c-sensor-bme280-with-esp32cam/  
 
 
 ## FTDI Connections for programming: 
