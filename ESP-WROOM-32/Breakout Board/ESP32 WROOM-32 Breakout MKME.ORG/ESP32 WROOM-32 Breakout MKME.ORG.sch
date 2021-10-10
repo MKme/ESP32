@@ -14,6 +14,148 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
+L Connector:Screw_Terminal_01x15 J2
+U 1 1 61353EE6
+P 10250 4250
+F 0 "J2" H 10330 4292 50  0000 L CNN
+F 1 "Screw_Terminal_01x15" H 10330 4201 50  0000 L CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-15-5.08_1x15_P5.08mm_Horizontal" H 10250 4250 50  0001 C CNN
+F 3 "~" H 10250 4250 50  0001 C CNN
+	1    10250 4250
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x15 J1
+U 1 1 61354F94
+P 6200 4300
+F 0 "J1" H 6118 5217 50  0000 C CNN
+F 1 "Screw_Terminal_01x15" H 6118 5126 50  0000 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-15-5.08_1x15_P5.08mm_Horizontal" H 6200 4300 50  0001 C CNN
+F 3 "~" H 6200 4300 50  0001 C CNN
+	1    6200 4300
+	-1   0    0    -1  
+$EndComp
+Text GLabel 6400 3600 2    50   Input ~ 0
+EN
+Text GLabel 6400 3700 2    50   Input ~ 0
+VP
+Text GLabel 6400 4000 2    50   Input ~ 0
+D35
+Text GLabel 6400 3900 2    50   Input ~ 0
+D34
+Text GLabel 6400 4100 2    50   Input ~ 0
+D32
+Text GLabel 6400 4200 2    50   Input ~ 0
+D33
+Text GLabel 6400 4300 2    50   Input ~ 0
+D25
+Text GLabel 6400 4400 2    50   Input ~ 0
+D26
+Text GLabel 6400 4500 2    50   Input ~ 0
+D27
+Text GLabel 6400 4600 2    50   Input ~ 0
+D14
+Text GLabel 6400 4700 2    50   Input ~ 0
+D12
+Text GLabel 6400 4800 2    50   Input ~ 0
+D13
+Text GLabel 6400 4900 2    50   Input ~ 0
+GND
+Text GLabel 6400 5000 2    50   Input ~ 0
+VIN
+Text GLabel 6400 3800 2    50   Input ~ 0
+VN
+Text GLabel 7650 3400 0    50   Input ~ 0
+EN
+Text GLabel 8850 5700 2    50   Input ~ 0
+D35
+Text GLabel 8850 5600 2    50   Input ~ 0
+D34
+Text GLabel 8850 5400 2    50   Input ~ 0
+D32
+Text GLabel 8850 5500 2    50   Input ~ 0
+D33
+Text GLabel 8850 5100 2    50   Input ~ 0
+D25
+Text GLabel 8850 5200 2    50   Input ~ 0
+D26
+Text GLabel 8850 5300 2    50   Input ~ 0
+D27
+Text GLabel 8850 4200 2    50   Input ~ 0
+D14
+Text GLabel 8850 4000 2    50   Input ~ 0
+D12
+Text GLabel 8850 4100 2    50   Input ~ 0
+D13
+Text GLabel 8150 6000 3    50   Input ~ 0
+GND
+Text GLabel 8150 3200 1    50   Input ~ 0
+VIN
+Text GLabel 7650 3700 0    50   Input ~ 0
+VN
+Text GLabel 10050 3550 0    50   Input ~ 0
+D23
+Text GLabel 10050 3650 0    50   Input ~ 0
+D22
+Text GLabel 10050 3750 0    50   Input ~ 0
+TX0
+Text GLabel 10050 3850 0    50   Input ~ 0
+RX0
+Text GLabel 10050 3950 0    50   Input ~ 0
+D21
+Text GLabel 10050 4050 0    50   Input ~ 0
+D19
+Text GLabel 10050 4150 0    50   Input ~ 0
+D18
+Text GLabel 10050 4250 0    50   Input ~ 0
+D5
+Text GLabel 10050 4350 0    50   Input ~ 0
+TX2
+Text GLabel 10050 4450 0    50   Input ~ 0
+RX2
+Text GLabel 10050 4550 0    50   Input ~ 0
+D4
+Text GLabel 10050 4650 0    50   Input ~ 0
+D2
+Text GLabel 10050 4750 0    50   Input ~ 0
+D15
+Text GLabel 10050 4850 0    50   Input ~ 0
+GND
+Text GLabel 10050 4950 0    50   Input ~ 0
+3V3
+Text GLabel 8850 5000 2    50   Input ~ 0
+D23
+Text GLabel 8850 4900 2    50   Input ~ 0
+D22
+Text GLabel 8850 3500 2    50   Input ~ 0
+TX0
+Text GLabel 8850 3700 2    50   Input ~ 0
+RX0
+Text GLabel 8850 4800 2    50   Input ~ 0
+D21
+Text GLabel 8850 4700 2    50   Input ~ 0
+D19
+Text GLabel 8850 4600 2    50   Input ~ 0
+D18
+Text GLabel 8850 3900 2    50   Input ~ 0
+D5
+Text GLabel 8850 4500 2    50   Input ~ 0
+TX2
+Text GLabel 8850 4400 2    50   Input ~ 0
+RX2
+Text GLabel 8850 3800 2    50   Input ~ 0
+D4
+Text GLabel 8850 3600 2    50   Input ~ 0
+D2
+Text GLabel 8850 4300 2    50   Input ~ 0
+D15
+Text GLabel 8250 6000 3    50   Input ~ 0
+GND
+Text GLabel 8250 3200 1    50   Input ~ 0
+3V3
+Text GLabel 7650 3600 0    50   Input ~ 0
+VP
+$Comp
 L ESp3222:ESP32_DevKit_V1_DOIT U1
 U 1 1 6134E7FD
 P 8250 4600
@@ -25,25 +167,85 @@ F 3 "https://aliexpress.com/item/32864722159.html" H 7800 5950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Screw_Terminal_01x15 J?
-U 1 1 61353EE6
-P 9750 4350
-F 0 "J?" H 9830 4392 50  0000 L CNN
-F 1 "Screw_Terminal_01x15" H 9830 4301 50  0000 L CNN
-F 2 "" H 9750 4350 50  0001 C CNN
-F 3 "~" H 9750 4350 50  0001 C CNN
-	1    9750 4350
+L Connector:Conn_01x15_Female J3
+U 1 1 615E00ED
+P 7200 4350
+F 0 "J3" H 7228 4376 50  0000 L CNN
+F 1 "Conn_01x15_Female" H 7228 4285 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 7200 4350 50  0001 C CNN
+F 3 "~" H 7200 4350 50  0001 C CNN
+	1    7200 4350
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Screw_Terminal_01x15 J?
-U 1 1 61354F94
-P 6700 4300
-F 0 "J?" H 6618 5217 50  0000 C CNN
-F 1 "Screw_Terminal_01x15" H 6618 5126 50  0000 C CNN
-F 2 "" H 6700 4300 50  0001 C CNN
-F 3 "~" H 6700 4300 50  0001 C CNN
-	1    6700 4300
-	-1   0    0    -1  
+L Connector:Conn_01x15_Female J4
+U 1 1 615E1469
+P 9700 4250
+F 0 "J4" H 9728 4276 50  0000 L CNN
+F 1 "Conn_01x15_Female" H 9728 4185 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 9700 4250 50  0001 C CNN
+F 3 "~" H 9700 4250 50  0001 C CNN
+	1    9700 4250
+	1    0    0    -1  
 $EndComp
+Text GLabel 7000 4950 0    50   Input ~ 0
+GND
+Text GLabel 7000 5050 0    50   Input ~ 0
+VIN
+Text GLabel 7000 3850 0    50   Input ~ 0
+VN
+Text GLabel 7000 4850 0    50   Input ~ 0
+D13
+Text GLabel 7000 4750 0    50   Input ~ 0
+D12
+Text GLabel 7000 4650 0    50   Input ~ 0
+D14
+Text GLabel 7000 4550 0    50   Input ~ 0
+D27
+Text GLabel 7000 4450 0    50   Input ~ 0
+D26
+Text GLabel 7000 4350 0    50   Input ~ 0
+D25
+Text GLabel 7000 4250 0    50   Input ~ 0
+D33
+Text GLabel 7000 4150 0    50   Input ~ 0
+D32
+Text GLabel 7000 3950 0    50   Input ~ 0
+D34
+Text GLabel 7000 4050 0    50   Input ~ 0
+D35
+Text GLabel 7000 3750 0    50   Input ~ 0
+VP
+Text GLabel 7000 3650 0    50   Input ~ 0
+EN
+Text GLabel 9500 3550 0    50   Input ~ 0
+D23
+Text GLabel 9500 3650 0    50   Input ~ 0
+D22
+Text GLabel 9500 3750 0    50   Input ~ 0
+TX0
+Text GLabel 9500 3850 0    50   Input ~ 0
+RX0
+Text GLabel 9500 3950 0    50   Input ~ 0
+D21
+Text GLabel 9500 4050 0    50   Input ~ 0
+D19
+Text GLabel 9500 4150 0    50   Input ~ 0
+D18
+Text GLabel 9500 4250 0    50   Input ~ 0
+D5
+Text GLabel 9500 4350 0    50   Input ~ 0
+TX2
+Text GLabel 9500 4450 0    50   Input ~ 0
+RX2
+Text GLabel 9500 4550 0    50   Input ~ 0
+D4
+Text GLabel 9500 4650 0    50   Input ~ 0
+D2
+Text GLabel 9500 4750 0    50   Input ~ 0
+D15
+Text GLabel 9500 4850 0    50   Input ~ 0
+GND
+Text GLabel 9500 4950 0    50   Input ~ 0
+3V3
 $EndSCHEMATC
