@@ -14,23 +14,12 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector:Screw_Terminal_01x15 J2
-U 1 1 61353EE6
-P 10250 4250
-F 0 "J2" H 10330 4292 50  0000 L CNN
-F 1 "Screw_Terminal_01x15" H 10330 4201 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-15-5.08_1x15_P5.08mm_Horizontal" H 10250 4250 50  0001 C CNN
-F 3 "~" H 10250 4250 50  0001 C CNN
-	1    10250 4250
-	1    0    0    1   
-$EndComp
-$Comp
 L Connector:Screw_Terminal_01x15 J1
 U 1 1 61354F94
 P 6200 4300
 F 0 "J1" H 6118 5217 50  0000 C CNN
 F 1 "Screw_Terminal_01x15" H 6118 5126 50  0000 C CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-15-5.08_1x15_P5.08mm_Horizontal" H 6200 4300 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-16-5.08_1x16_P5.08mm_Horizontal" H 6200 4300 50  0001 C CNN
 F 3 "~" H 6200 4300 50  0001 C CNN
 	1    6200 4300
 	-1   0    0    -1  
@@ -93,35 +82,35 @@ Text GLabel 8150 3200 1    50   Input ~ 0
 VIN
 Text GLabel 7650 3700 0    50   Input ~ 0
 VN
-Text GLabel 10050 3550 0    50   Input ~ 0
+Text GLabel 10050 3450 0    50   Input ~ 0
 D23
-Text GLabel 10050 3650 0    50   Input ~ 0
+Text GLabel 10050 3550 0    50   Input ~ 0
 D22
-Text GLabel 10050 3750 0    50   Input ~ 0
+Text GLabel 10050 3650 0    50   Input ~ 0
 TX0
-Text GLabel 10050 3850 0    50   Input ~ 0
+Text GLabel 10050 3750 0    50   Input ~ 0
 RX0
-Text GLabel 10050 3950 0    50   Input ~ 0
+Text GLabel 10050 3850 0    50   Input ~ 0
 D21
-Text GLabel 10050 4050 0    50   Input ~ 0
+Text GLabel 10050 3950 0    50   Input ~ 0
 D19
-Text GLabel 10050 4150 0    50   Input ~ 0
+Text GLabel 10050 4050 0    50   Input ~ 0
 D18
-Text GLabel 10050 4250 0    50   Input ~ 0
+Text GLabel 10050 4150 0    50   Input ~ 0
 D5
-Text GLabel 10050 4350 0    50   Input ~ 0
+Text GLabel 10050 4250 0    50   Input ~ 0
 TX2
-Text GLabel 10050 4450 0    50   Input ~ 0
+Text GLabel 10050 4350 0    50   Input ~ 0
 RX2
-Text GLabel 10050 4550 0    50   Input ~ 0
+Text GLabel 10050 4450 0    50   Input ~ 0
 D4
-Text GLabel 10050 4650 0    50   Input ~ 0
+Text GLabel 10050 4550 0    50   Input ~ 0
 D2
-Text GLabel 10050 4750 0    50   Input ~ 0
+Text GLabel 10050 4650 0    50   Input ~ 0
 D15
-Text GLabel 10050 4850 0    50   Input ~ 0
+Text GLabel 10050 4750 0    50   Input ~ 0
 GND
-Text GLabel 10050 4950 0    50   Input ~ 0
+Text GLabel 10050 4850 0    50   Input ~ 0
 3V3
 Text GLabel 8850 5000 2    50   Input ~ 0
 D23
@@ -248,4 +237,16 @@ Text GLabel 9500 4850 0    50   Input ~ 0
 GND
 Text GLabel 9500 4950 0    50   Input ~ 0
 3V3
+$Comp
+L Connector:Screw_Terminal_01x16 J2
+U 1 1 61353EE6
+P 10250 4250
+F 0 "J2" H 10330 4292 50  0000 L CNN
+F 1 "Screw_Terminal_01x15" H 10330 4201 50  0000 L CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-16-5.08_1x16_P5.08mm_Horizontal" H 10250 4250 50  0001 C CNN
+F 3 "~" H 10250 4250 50  0001 C CNN
+	1    10250 4250
+	1    0    0    1   
+$EndComp
+NoConn ~ 10050 4950
 $EndSCHEMATC
